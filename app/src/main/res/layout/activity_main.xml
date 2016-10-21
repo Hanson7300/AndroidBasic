@@ -13,12 +13,9 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:fontFamily="sans-serif-condensed"
+            style="@style/title_style"
             android:padding="@dimen/to_left"
-            android:text="@string/title"
-            android:textSize="24sp" />
+            android:text="@string/title" />
 
         <TextView
             style="@style/question_style"
@@ -165,7 +162,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
-            android:hint="Enter your name here"
+            android:hint="@string/hint"
             android:textSize="20sp" />
 
         <Button
