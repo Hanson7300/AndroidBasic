@@ -10,13 +10,13 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    int counter = 0;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
-    int counter = 0;
 
     public void submit(View view) {
 

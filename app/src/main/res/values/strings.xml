@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Android Basic Test Questions</string>
+    <string name="title">Choose the best answer to the question (1 point for each question)</string>
+    <string name="question_1">1.Which of the following views can show the overlap effect？</string>
+    <string name="question_2">2.Which option adds a protection zone to the content perimeter?" </string>
+    <string name="question_3">3.Which of the followings can be used as a reminder of EditText?</string>
+    <string name="question_4">4.Which two attributes LinearLayout must have ?</string>
+    <string name="question_5">5.Can void method use return statement ?"</string>
+    <string name="question_6">6.The default orientation of LinearLayout is what?"</string>
+    <string name="submit">Submit</string>
 </resources>
